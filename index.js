@@ -283,7 +283,7 @@ function openWhatsapp() {
     }
 
     let wTxtEncoded = encodeURI(wTxt);
-    window.open("https://wa.me/7899162408?text=" + wTxtEncoded);
+    window.open("https://wa.me/9739967116?text=" + wTxtEncoded);
   }
 }
 
